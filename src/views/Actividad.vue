@@ -93,7 +93,7 @@ export default {
         },
         {
           id: 3,
-          texto: '¿Qué significa “lodging” en el contexto hotelero?',
+          texto: '¿Qué significa “<em>lodging</em>” en el contexto hotelero?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -147,7 +147,7 @@ export default {
             },
             {
               id: 'd',
-              texto: '<emA>Boutique hotel.</emA',
+              texto: '<em>Boutique hotel.</em>',
               esCorrecta: false,
             },
           ],
@@ -586,7 +586,7 @@ export default {
         {
           id: 18,
           texto:
-            '¿Cuál es la traducción correcta de “Peaceful / quiet / relaxing ”?',
+            '¿Cuál es la traducción correcta de “<em>Peaceful / quiet / relaxing</em>”?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [

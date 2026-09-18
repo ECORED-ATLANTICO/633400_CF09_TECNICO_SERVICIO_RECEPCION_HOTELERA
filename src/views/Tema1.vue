@@ -22,15 +22,14 @@
     .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5
       .col-lg-6.mb-3
         .p-4.bg-acento-botones-a5.rounded-4.position-relative.h-100
-          img.w-85.position-absolute.top-0.end-10.d-none.d-xl-block(src="@/assets/curso/tema1/2.svg")
+          img.w-65.position-absolute.top-0.end-10_1.d-none.d-xl-block(src="@/assets/curso/tema1/2.svg")
           p.mb-0 #[strong #[em Grammar] / Gramática]
-          p.mb-0 #[em See the main conditions of use of this verb tense.]
-          p.mb-0 Observa las principales condiciones de uso de este tiempo verbal. 
+          p.mb-0 #[em The main conditions for using this verb tense are detailed.]
+          p.mb-0 Se detalla las principales condiciones de uso de este tiempo verbal. 
       .col-lg-4.mb-3
         .p-4.bg-acento-botones-a5.rounded-4.position-relative.h-100
-          img.w-85.position-absolute.top-0.end-10.d-none.d-xl-block(src="@/assets/curso/tema1/2.svg")
-          p.mb-0 #[strong #[em Affirmative statements]]
-          p.mb-0 Oraciones afirmativas
+          img.w-65.position-absolute.top-0.end-10_1.d-none.d-xl-block(src="@/assets/curso/tema1/2.svg")
+          p.mb-0 #[strong #[em Affirmative statements] / Oraciones afirmativas]
           p.mb-0 #[em The structure is:]
           p.mb-0 #[em La estructura es:]
       .col-8.col-sm-4.col-lg-2
@@ -46,7 +45,6 @@
         img.mb-2.d-block.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/5-mob.svg", alt="Cuadro de diálogo, estructura “Sujeto + Verbo + Complemento” en inglés y español. En la parte superior aparece el título bilingüe “Subject + Verb + Complement / Sujeto + Verbo + Vomplemento”. Debajo, dos personajes ilustrados conversan mediante globos de diálogo. Una persona pregunta qué es esta estructura gramatical y otra responde que es una forma de organizar oraciones donde el sujeto realiza la acción, el verbo la expresa y el complemento aporta información adicional. Luego se pregunta por su importancia y se explica que permite construir mensajes claros y coherentes en ambos idiomas. ")
         img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema1/5.svg", alt="Cuadro de diálogo, estructura “Sujeto + Verbo + Complemento” en inglés y español. En la parte superior aparece el título bilingüe “Subject + Verb + Complement / Sujeto + Verbo + Complemento”. Debajo, dos personajes ilustrados conversan mediante globos de diálogo. Una persona pregunta qué es esta estructura gramatical y otra responde que es una forma de organizar oraciones donde el sujeto realiza la acción, el verbo la expresa y el complemento aporta información adicional. Luego se pregunta por su importancia y se explica que permite construir mensajes claros y coherentes en ambos idiomas. ")
       .col-lg-12.col-xl-12
-        figcaption  Nota. SENA, (2026).
 
   
     .row.justify-content-center.mb-5
@@ -63,7 +61,6 @@
           span Ayuda al cliente
         .tabla-a.color-acento-contenido.tabla-a--text-left.mb-5
           table
-            caption Nota. SENA, (2026).
             thead
               tr(style="background-color: #F0F6F9")
                 th #[em Number]
@@ -127,21 +124,19 @@
                   
         img.mb-2.d-block.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/6-mob.svg", alt="Cuadro de diálogo, que muestra dos interlocutores teniendo una conversación con estructura de Negative statements")
         img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema1/6.svg", alt="Cuadro de diálogo, que muestra dos interlocutores teniendo una conversación con estructura de Negative statements")
-        figcaption  Nota. SENA, (2026).
     
     .row.justify-content-center.mb-5
       .col-lg-10.col-xl-8
         .p-3.bg-acento-botones-a5.rounded-4.position-relative.h-100
           img.w-90.position-absolute.end-10.d-none.d-xl-block(src="@/assets/curso/tema1/3.svg")
           p.mb-2 #[strong #[em Example] / Ejemplo] 
-          p.mb-0 #[em Example: “It does not help the customer”] / Ejemplo: "No ayuda al cliente"
+          p.mb-0 #[em Example: “It does not help the customer”] / Ejemplo: "No ayuda al cliente."
 
     .titulo-sexto.color-acento-contenido.mb-4
       h5 Tabla 2.
       span No ayuda al cliente
     .tabla-a.color-acento-contenido.tabla-a--text-left.mb-5
       table
-        caption Nota. SENA, (2026).
         thead
           tr(style="background-color: #F0F6F9")
             th #[em Number]
@@ -223,7 +218,6 @@
           span #[em Regular verbs] / Verbos regulares
         .tabla-a.color-acento-contenido.tabla-a--text-left.mb-5
           table
-            caption Nota. SENA, (2026).
             thead
               tr(style="background-color: #F0F6F9")
                 th #[em Rule Type]
@@ -262,7 +256,6 @@
       span #[em Examples by Subject] / Ejemplos por área
     .tabla-a.color-acento-contenido.tabla-a--text-left.mb-5
       table
-        caption Nota. SENA, (2026).
         thead
           tr(style="background-color: #F0F6F9")
             th #[em Subject]

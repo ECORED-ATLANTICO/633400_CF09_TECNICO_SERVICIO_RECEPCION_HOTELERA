@@ -29,7 +29,6 @@
           span #[em Hotel Organization Chart] / Organigrama del hotel
         img.mb-2.d-block.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema4/2-mob.svg", alt="Organigrama de un hotel. En la parte superior se encuentra el “Gerente general”. Debajo se dividen cinco áreas principales: “Gerente de recepción”, “Ama de llaves”, “Gerente de A&B”, “Contralora” y “Mantenimiento”. El área de recepción incluye “Auditor nocturno”, luego “Recepcionista” y finalmente “Botones”. El área de ama de llaves incluye “Supervisor de piso” con “Camareras”, y “Supervisor de lavandería” con “Personal de lavandería”. El área de alimentos y bebidas incluye “Chef” con “Cocinero” y “Lava platos”; además “Mayordomo” con “Anfitrión” y “Meseros”. El área administrativa incluye “Cajero general” y debajo “Auxiliar contable”. El área de mantenimiento incluye “Asistente de mantenimiento”.")
         img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema4/2.svg", alt="Organigrama de un hotel. En la parte superior se encuentra el “Gerente general”. Debajo se dividen cinco áreas principales: “Gerente de recepción”, “Ama de llaves”, “Gerente de A&B”, “Contralora” y “Mantenimiento”. El área de recepción incluye “Auditor nocturno”, luego “Recepcionista” y finalmente “Botones”. El área de ama de llaves incluye “Supervisor de piso” con “Camareras”, y “Supervisor de lavandería” con “Personal de lavandería”. El área de alimentos y bebidas incluye “Chef” con “Cocinero” y “Lava platos”; además “Mayordomo” con “Anfitrión” y “Meseros”. El área administrativa incluye “Cajero general” y debajo “Auxiliar contable”. El área de mantenimiento incluye “Asistente de mantenimiento”.")
-        figcaption Nota. SENA, (2026).
 
     separador
     
@@ -72,10 +71,10 @@
       .row.justify-content-center.z-2.mb-3
         .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
           div.banner-text.shadow
-            p.mb-0 #[em The Rooms Department is responsible for preparing, maintaining, and managing guest rooms and accommodation areas. Its main objective is to ensure cleanliness, comfort, organization, and quality service during the guest’s stay. Below are some of the areas and functions related to this department.]
+            p.mb-0 #[em The rooms department is responsible for preparing, maintaining, and managing guest rooms and accommodation areas. Its main objective is to ensure cleanliness, comfort, organization, and quality service during the guest’s stay. Below are some of the areas and functions related to this department.]
 
     .p-4.rounded-4.bg-secundario-s5.mb-5
-      p.mb-0 El Departamento de Habitaciones es responsable de preparar, mantener y gestionar las habitaciones y áreas de alojamiento para los huéspedes. Su principal objetivo es garantizar limpieza, comodidad, organización y un servicio de calidad durante la estadía. A continuación, se presentan algunas de las áreas y funciones relacionadas con este departamento.
+      p.mb-0 El departamento de habitaciones es responsable de preparar, mantener y gestionar las habitaciones y áreas de alojamiento para los huéspedes. Su principal objetivo es garantizar limpieza, comodidad, organización y un servicio de calidad durante la estadía. A continuación, se presentan algunas de las áreas y funciones relacionadas con este departamento.
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta bg-terciario-t5").mb-5
       .row.justify-content-center.align-items-center(titulo="<em>Front office manager</em> / Gerente de recepción")
@@ -249,19 +248,19 @@
           .col-sm-8.col-lg-4
             figure
               img(src='@/assets/curso/tema4/19.png', alt='')
-      .py-4.py-md-5(titulo="<em>General Cashier</em> / Cajero General" :icono="require('@/assets/curso/tema4/17.svg')")
+      .py-4.py-md-5(titulo="<em>General cashier</em> / Cajero general" :icono="require('@/assets/curso/tema4/17.svg')")
         .row.justify-content-center.align-items-center
           .col-lg-6.mb-4.mb-lg-0
-            h4 <em>General Cashier</em> / Cajero General
-            p #[em The General Cashier reconciles the movements from the different outlets, including the Front Office, on a daily basis. The General Cashier is responsible for maintaining the balances of cash and banks. They process the cash for minor expenses in accordance with the hotel procedures and ensure the payment of accounts payable within the established timeframes.]
-            p.mb-0 El Cajero General concilia los movimientos desde los diferentes puntos de venta, incluyendo la recepción, a diario, siendo responsable de mantener los saldos de efectivo y bancos. Es quien procesa el efectivo para gastos menores, de acuerdo con los procedimientos hoteleros, y asegura el pago de las cuentas por pagar dentro de los tiempos establecidos.
+            h4 <em>General cashier</em> / Cajero general
+            p #[em The general cashier reconciles the movements from the different outlets, including the front office, on a daily basis. The general cashier is responsible for maintaining the balances of cash and banks. They process the cash for minor expenses in accordance with the hotel procedures and ensure the payment of accounts payable within the established timeframes.]
+            p.mb-0 El cajero general concilia los movimientos desde los diferentes puntos de venta, incluyendo la recepción, a diario, siendo responsable de mantener los saldos de efectivo y bancos. Es quien procesa el efectivo para gastos menores, de acuerdo con los procedimientos hoteleros, y asegura el pago de las cuentas por pagar dentro de los tiempos establecidos.
           .col-sm-8.col-lg-4
             figure
               img(src='@/assets/curso/tema4/20.png', alt='')
-      .py-4.py-md-5(titulo="<em>Accounting Assistant</em> / Auxiliar contable" :icono="require('@/assets/curso/tema4/18.svg')")
+      .py-4.py-md-5(titulo="<em>Accounting assistant</em> / Auxiliar contable" :icono="require('@/assets/curso/tema4/18.svg')")
         .row.justify-content-center.align-items-center
           .col-lg-6.mb-4.mb-lg-0
-            h4 <em>Accounting Assistant</em> / Auxiliar contable
+            h4 <em>Accounting assistant</em> / Auxiliar contable
             p #[em Their main mission is to daily carry out the review and entry of the accounting movements of the hotel. They organize financial documents as invoices and accounts of the outlets; maintain accounts payable and receivable; complete financial reports on a regular basis, and provide information to the finance team. They also help with budgets.]
             p.mb-0 Su misión principal es realizar diariamente la revisión y el registro de los movimientos contables del hotel. Organizan los documentos financieros como las facturas y las cuentas de los establecimientos; llevan las cuentas por pagar y por cobrar; completan los informes financieros de forma regular y proporcionan información al equipo financiero. También ayudan con los presupuestos.
           .col-sm-8.col-lg-4
@@ -281,7 +280,7 @@
         p.mb-4 #[em Below are some of the most common positions and functions within the Maintenance Department.]
 
         .p-4.rounded-4.bg-acento-botones-a5.mb-4
-          p.mb-3 El Departamento de Mantenimiento es responsable de garantizar el correcto funcionamiento, la seguridad y la conservación de las instalaciones, equipos y sistemas del hotel. Su principal objetivo es ofrecer espacios cómodos y seguros para huéspedes y personal mediante actividades de mantenimiento preventivo y correctivo.
+          p.mb-3 El departamento de mantenimiento es responsable de garantizar el correcto funcionamiento, la seguridad y la conservación de las instalaciones, equipos y sistemas del hotel. Su principal objetivo es ofrecer espacios cómodos y seguros para huéspedes y personal mediante actividades de mantenimiento preventivo y correctivo.
           p.mb-3 En este departamento pueden trabajar profesionales como técnicos de mantenimiento, electricistas, plomeros, pintores y supervisores. Su labor contribuye a mantener la calidad y eficiencia de las operaciones hoteleras.
           p.mb-0 A continuación, se presentan algunos de los cargos y funciones más comunes del departamento de mantenimiento.
 
@@ -345,7 +344,7 @@
                   | #[em Travel agent.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Local Tourism Manager.]
+                  | #[em Local tourism manager.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
                   | #[em Tourism consultant.]
