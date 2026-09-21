@@ -256,7 +256,7 @@ export default {
         {
           id: 8,
           texto:
-            '¿Qué tipo de hotel pertenece a la categoría “ Economy Hotels”?',
+            '¿Qué tipo de hotel pertenece a la categoría <em>"Economy Hotels"</em>?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -328,22 +328,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Modern.',
+              texto: '<em>Modern.</em>',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Bustling.',
+              texto: '<em>Bustling.</em>',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Charming.',
+              texto: '<em>Charming.</em>',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Cheap.',
+              texto: '<em>Cheap.</em>',
               esCorrecta: false,
             },
           ],
