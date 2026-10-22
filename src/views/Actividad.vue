@@ -348,7 +348,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '“Charming ” se utiliza para describir lugares agradables o con encanto.',
+            '“Charming” se utiliza para describir lugares agradables o con encanto.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -481,7 +481,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '“Luxury Hotels” corresponde a hoteles de nivel lujo.',
+            'La expresión “<em>The doors open at midday</em>” utiliza el presente simple para referirse a un evento programado o a un horario establecido. En este caso, indica que las puertas abren al mediodía.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },

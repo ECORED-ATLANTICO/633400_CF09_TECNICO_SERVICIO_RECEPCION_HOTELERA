@@ -146,7 +146,7 @@ export default {
     {
       termino: 'ADR',
       significado:
-        'adr es el acrónimo de <em>Average Daily Rate</em>, y hace referencia a la tarifa diaria promedio del hotel. Es decir, ingresos por habitación / número de habitaciones vendidas.',
+        'ADR es el acrónimo de <em>Average Daily Rate</em>, y hace referencia a la tarifa diaria promedio del hotel. Es decir, ingresos por habitación / número de habitaciones vendidas.',
     },
     {
       termino: 'Cadena hotelera',
@@ -172,7 +172,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Davis, T. (2021). <em>5 Main Regions of Colombia: A Guide To Planning Your Trip</em>. Kimkim.https://www.kimkim.com/c/highlights-of-colombia-the-best-of-each-region',
+        'Davis, T. (2021). <em>5 Main Regions of Colombia: A Guide To Planning Your Trip</em>. Kimkim.',
       link:
         'https://www.kimkim.com/c/highlights-of-colombia-the-best-of-each-region',
     },
@@ -195,7 +195,7 @@ export default {
     },
     {
       referencia:
-        'Woodward Education. (2021). <em>This That These Those - Demonstrative Pronouns Demonstrative Adjectives</em>. Woodward english.https://www.grammar.cl/Notes/This_That_These_Those.htm',
+        'Woodward Education. (2021). <em>This That These Those - Demonstrative Pronouns Demonstrative Adjectives</em>. Woodward english.',
       link: 'https://www.grammar.cl/Notes/This_That_These_Those.htm',
     },
   ],
@@ -222,7 +222,8 @@ export default {
         {
           nombre: 'Sandra Isabel Suárez Delgado',
           cargo: 'Experta temática',
-          centro: 'Centro de Gestión y Servicios - Regional Antioquia',
+          centro:
+            'Centro de Servicios y Gestión Empresarial - Regional Antioquia',
         },
         {
           nombre: 'Harbey Castelblanco',
@@ -265,17 +266,12 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
-          nombre: 'Jonathan Adié Villafañe',
+          nombre: 'Luis Gabriel Urueta Álvarez',
           cargo: 'Validador y vinculador de recursos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Karine Isabel Ospino Fritz',
+          nombre: 'Laura Daniela Burgos Rueda',
           cargo: 'Validadora y vinculadora de recursos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },

@@ -71,8 +71,8 @@
           .col-4
             img(src='@/assets/curso/tema2/7.svg' alt='')
         p.mb-4.text-center #[strong #[em Star hotels]] / Hoteles de 5 estrellas
-        p.text-center.mb-4 #[em They must meet a minimum of 95% of the requirements defined in Standard NTSH006, range 349 - 337 points and the current legal requirements.]
-        p.text-center.mb-0 Deberán cumplir mínimo con el 95 % de los requisitos definidos en la norma NTSH006, rango 349 - 337 puntos y los requisitos legales vigentes.
+        p.text-center.mb-4 #[em They must meet a minimum of 95% of the requirements defined in Standard NTSH006, range 337 - 349 points and the current legal requirements.]
+        p.text-center.mb-0 Deberán cumplir mínimo con el 95 % de los requisitos definidos en la norma NTSH006, rango 337 - 349 puntos y los requisitos legales vigentes.
 
     .p-4.rounded-4.bg-acento-botones-a5.mb-5
       p.mb-0 #[em At a global level, the categorization most used by the industry is the one determined by the price scales associated with the quality of the establishments. This scale has 6 levels that are determined by the ADR “Average Daily Rate” and is used by hotel chains to classify their products. There is a seventh category that applies to independent hotels. Defined as follows:]
@@ -366,7 +366,7 @@
               figure
                 img.w-120.mb-4.mb-lg-0(src="@/assets/curso/tema2/37.svg", alt="", data-aos="fade-down-right")
             .col-lg-8
-              h5.mb-4 #[em Expensive]
+              h5.mb-4 #[em Adjectives]
               ul.lista-ul--color.pe-4
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
@@ -405,7 +405,7 @@
               figure
                 img.w-120.mb-4.mb-lg-0(src="@/assets/curso/tema2/37.svg", alt="", data-aos="fade-down-right")
             .col-lg-8
-              h5.mb-4 Caro
+              h5.mb-4 Adjetivos
               ul.lista-ul--color.pe-4
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
@@ -725,25 +725,8 @@
                     p.mb-0 Cambio de moneda.
                     p.mb-0 Transferir.
                     p.mb-0 Alquiler de equipos.
-          .row.justify-content-center(numero="3" titulo="<em>Accommodation</em> / Alojamiento")
-            .col-xl-8
-              .p-3.rounded-4.bg-secundario-s10.mb-3
-                .row.justify-content-center.align-items-center
-                  .col-6
-                    p.mb-0 #[em Visa.]
-                    p.mb-0 #[em All-inclusive.]
-                    p.mb-0 #[em Insurance.]
-                    p.mb-0 #[em Foreign exchange.]
-                    p.mb-0 #[em Transfer.]
-                    p.mb-0 #[em Equipment hire.]
-                  .col-6
-                    p.mb-0 Visa.
-                    p.mb-0 Todo incluido.
-                    p.mb-0 Seguro.
-                    p.mb-0 Cambio de moneda.
-                    p.mb-0 Transferir.
-                    p.mb-0 Alquiler de equipos.
-          .row.justify-content-center(numero="4" titulo="<em>Transportation</em> / Transporte")
+          
+          .row.justify-content-center(numero="3" titulo="<em>Transportation</em> / Transporte")
             .col-xl-8
               .p-3.rounded-4.bg-secundario-s10.mb-3
                 .row.justify-content-center.align-items-center
@@ -774,7 +757,7 @@
           p.mb-0 #[em Each region offers its own activities; it is important to know the highlights of each of them.]
         
         p.mb-0 La ubicación geográfica es la identificación de un lugar específico del planeta, mediante el uso de diversas herramientas como mapas, brújulas, coordenadas o sistemas de geolocalización.
-        p.mb-0 En el servicio de alojamiento, es importante tener conocimiento de la ubicación del establecimiento y los lugares específicos que a los huéspedes pueden necesitar acceder. Por lo tanto, es importante tenerlo presente y orientarlos en caso de ser requerido.
+        p.mb-0 En el servicio de alojamiento, es importante tener conocimiento de la ubicación del establecimiento y los lugares específicos a los que los huéspedes pueden necesitar acceder. Por lo tanto, es importante tenerlo presente y orientarlos en caso de ser requerido.
 
         p.mb-0 Colombia es una tierra diversa; desde los Andes hasta el Amazonas; existe un lugar para cada persona.
         p.mb-0 Colombia se puede dividir en seis regiones geográficas: la costa caribe, la costa pacífica, la cordillera de los Andes, Orinoquia, la selva amazónica y la zona insular.

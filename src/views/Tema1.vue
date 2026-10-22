@@ -25,13 +25,13 @@
           img.w-65.position-absolute.top-0.end-10_1.d-none.d-xl-block(src="@/assets/curso/tema1/2.svg")
           p.mb-0 #[strong #[em Grammar] / Gramática]
           p.mb-0 #[em The main conditions for using this verb tense are detailed.]
-          p.mb-0 Se detalla las principales condiciones de uso de este tiempo verbal. 
+          p.mb-0 Se detallan las principales condiciones de uso de este tiempo verbal. 
       .col-lg-4.mb-3
         .p-4.bg-acento-botones-a5.rounded-4.position-relative.h-100
           img.w-65.position-absolute.top-0.end-10_1.d-none.d-xl-block(src="@/assets/curso/tema1/2.svg")
           p.mb-0 #[strong #[em Affirmative statements] / Oraciones afirmativas]
           p.mb-0 #[em The structure is:]
-          p.mb-0 #[em La estructura es:]
+          p.mb-0 La estructura es:
       .col-8.col-sm-4.col-lg-2
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema1/4.png", alt="" data-aos="zoom-in-down")
@@ -122,8 +122,8 @@
           h5 Figura 2.
           span #[em Negative statements]
                   
-        img.mb-2.d-block.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/6-mob.svg", alt="Cuadro de diálogo, que muestra dos interlocutores teniendo una conversación con estructura de Negative statements")
-        img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema1/6.svg", alt="Cuadro de diálogo, que muestra dos interlocutores teniendo una conversación con estructura de Negative statements")
+        img.mb-2.d-block.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/6-mob.svg", alt="Diálogo entre dos interlocutores sobre la estructura de las oraciones negativas en presente simple. Uno pregunta cuál es la estructura de la oración negativa y el otro responde: sujeto + verbo auxiliar + negación + verbo + complemento.")
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema1/6.svg", alt="Diálogo entre dos interlocutores sobre la estructura de las oraciones negativas en presente simple. Uno pregunta cuál es la estructura de la oración negativa y el otro responde: sujeto + verbo auxiliar + negación + verbo + complemento.")
     
     .row.justify-content-center.mb-5
       .col-lg-10.col-xl-8
@@ -209,7 +209,7 @@
         p #[em For the third person, an “s” must be added, considering the following observations:]
         p.mb-4.mb-lg-0 Para la tercera persona, se debe adicionar una “s”, teniendo en cuenta las siguientes observaciones:
       .col-sm-10.col-lg-5
-        img(data-aos="fade-down-right", src="@/assets/curso/tema1/8.png", alt="piramide de maslow")
+        img(data-aos="fade-down-right", src="@/assets/curso/tema1/8.png", alt="")
     
     .row.justify-content-center
       .col-xl-10

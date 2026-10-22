@@ -167,7 +167,7 @@
               figure
                 img.w-65(src="@/assets/curso/tema3/17.svg", alt="")
             .col-8.p-0
-              p.mb-1.text-center #[em Coffe-shop.]
+              p.mb-1.text-center #[em Coffee-shop.]
               p.mb-0.text-center Cafetería.
       .col-sm-6.col-lg-5.col-xl-3.mb-3
         .bg-img.bg-img--2.rounded-4.p-3
