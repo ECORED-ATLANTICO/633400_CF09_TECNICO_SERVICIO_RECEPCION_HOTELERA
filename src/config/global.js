@@ -146,7 +146,7 @@ export default {
     {
       termino: 'ADR',
       significado:
-        'ADR es el acrónimo de <em>Average Daily Rate</em>, y hace referencia a la tarifa diaria promedio del hotel. Es decir, ingresos por habitación / número de habitaciones vendidas.',
+        ' ADR es el acrónimo de <em>Average Daily Rate</em>, y hace referencia a la tarifa diaria promedio del hotel. Es decir, ingresos por habitación / número de habitaciones vendidas.',
     },
     {
       termino: 'Cadena hotelera',
